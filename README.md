@@ -4,13 +4,8 @@
 A modern, responsive, and interactive personal portfolio website showcasing my skills, projects, education, certifications, and professional achievements. This portfolio serves as my digital resume and highlights my journey as a Computer Science student and Full-Stack Web Developer.
 
 ## 🚀 Live Demo
-
-🔗 Add your portfolio link here:
-```
 https://aatifamugheer.in/
 ```
-
----
 
 ## ✨ Features
 
